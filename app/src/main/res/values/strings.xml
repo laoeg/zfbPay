@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testPayLibrary</string>
+    <string name="ajsdkfjkla">NFC功能未开启，是否前往开启?</string>
+    <string name="dfa">设备不支持NFC功能</string>
+</resources>
